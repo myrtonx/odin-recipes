@@ -1,0 +1,17 @@
+body { text-align: center;
+background-color: black;
+color: white;}
+
+.meatBallz {
+    width: 400px;
+    height: 300px;
+}
+
+
+div.listan {
+    text-align: center;
+}
+ul.myList, ol.steps {
+display: inline-block;
+text-align: left;
+}

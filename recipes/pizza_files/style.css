@@ -1,0 +1,10 @@
+body { background-color: black;
+color: white;
+text-align: center;}
+
+div.listor {text-align: center;}
+ul.ingred, ol.instruk {
+    display: inline-block;
+    text-align: left;
+    
+}
